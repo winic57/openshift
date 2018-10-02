@@ -16,6 +16,7 @@
 项目，然后照着这个视频 https://youtu.be/gImm4CfAnRs 自行部署镜像！ 2018/09/26
 
 （fork于wangyi2005/v2ray修改前）
+#特别致谢！
 
 环境变量： CONFIG_JSON（配置）、
 
